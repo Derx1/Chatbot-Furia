@@ -14,14 +14,10 @@
 - [Estrutura de Dados](#-estrutura-de-dados)
 - [Instalação e Configuração](#-instalação-e-configuração)
 - [Como Usar](#-como-usar)
-- [Exemplos de Interação](#-exemplos-de-interação)
-- [Próximos Passos](#-próximos-passos)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
+  
 ## 🚀 Sobre o Projeto
 
-O FuriaBot é um assistente virtual desenvolvido para fornecer informações detalhadas sobre a equipe Furia FC na Kings League Brasil. Com foco na temporada de março e abril de 2025, o chatbot permite que torcedores acessem estatísticas de jogos, informações sobre jogadores, resultados de partidas e muito mais, tudo em um formato conversacional intuitivo.
+O Chatbot Furia é um assistente virtual desenvolvido para fornecer informações detalhadas sobre a equipe Furia FC na Kings League Brasil. Com foco na temporada de março e abril de 2025, o chatbot permite que torcedores acessem estatísticas de jogos, informações sobre jogadores, resultados de partidas e muito mais, tudo em um formato conversacional intuitivo.
 
 ### 🎯 Objetivos
 
@@ -32,7 +28,7 @@ O FuriaBot é um assistente virtual desenvolvido para fornecer informações det
 
 ## ⚙️ Funcionalidades
 
-O FuriaBot oferece as seguintes funcionalidades principais:
+O Chatbot Furia oferece as seguintes funcionalidades principais:
 
 ### 📊 Informações sobre Jogos
 
@@ -58,108 +54,12 @@ O FuriaBot oferece as seguintes funcionalidades principais:
 - Desempenho ofensivo e defensivo da equipe
 - Análise de tendências de desempenho
 
-## 💻 Tecnologias Utilizadas
-
-- **Linguagem de Programação**: [Python 3.9+](https://www.python.org/)
-- **Frameworks de Chatbot**: [Rasa](https://rasa.com/) / [Botpress](https://botpress.com/)
-- **Processamento de Linguagem Natural**: [spaCy](https://spacy.io/) / [NLTK](https://www.nltk.org/)
-- **Armazenamento de Dados**: [SQLite](https://www.sqlite.org/) / [MongoDB](https://www.mongodb.com/)
-- **Front-end** (opcional): [React](https://reactjs.org/) / [Vue.js](https://vuejs.org/)
-
-## 📁 Estrutura de Dados
-
-O chatbot utiliza uma base de dados estruturada com as seguintes informações:
-
-### Resumo dos Jogos
-```
-- ID do jogo
-- Data e hora
-- Adversário
-- Local
-- Placar
-- Resultado
-```
-
-### Dados de Gols
-```
-- ID do jogo
-- Minuto do gol
-- Jogador
-- Tipo de gol (normal, duplo, presidente)
-```
-
-### Estatísticas por Jogo
-```
-- ID do jogo
-- xG (Expected Goals)
-- Chutes totais
-- Chutes no alvo
-- Posse de bola
-- Precisão nos passes
-- Escanteios
-- Faltas cometidas
-- Cartões amarelos
-```
-
-## 🔧 Instalação e Configuração
-
-### Pré-requisitos
-
-- Python 3.9+
-- pip (gerenciador de pacotes Python)
-- Node.js e npm (opcional, para interfaces web)
-
-### Passos para Instalação
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/furiabot.git
-cd furiabot
-```
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-3. Configure as variáveis de ambiente:
-```bash
-cp .env.example .env
-# Edite o arquivo .env com suas configurações
-```
-
-4. Inicialize o banco de dados:
-```bash
-python scripts/init_database.py
-```
-
-5. Treine o modelo (caso use Rasa ou similar):
-```bash
-rasa train
-```
-
 ## 🎮 Como Usar
 
-### Iniciar o Chatbot (Linha de Comando)
-
+### Iniciar o Chatbot 
 ```bash
-python run_bot.py
+https://udify.app/chat/W8tzZvqRyAAb38Ja
 ```
-
-### Iniciar o Servidor Web (opcional)
-
-```bash
-python app.py
-```
-Acesse o chatbot em `http://localhost:5000`
-
-### Integração com Plataformas
-
-O FuriaBot pode ser integrado com:
-- Discord
-- Telegram
-- WhatsApp
-- Site da Furia FC
 
 Consulte a documentação específica para cada plataforma na pasta `/docs/integrations/`.
 
@@ -191,37 +91,3 @@ Aqui estão alguns exemplos de como interagir com o FuriaBot:
 
 **FuriaBot**: A Furia FC teve 3 gols duplos: Leleti marcou 2 gols duplos (contra Nyvelados FC e G3X FC) e Lipão marcou 1 gol duplo (contra Capim FC).
 
-## 🔮 Próximos Passos
-
-O desenvolvimento do FuriaBot continuará com os seguintes recursos planejados:
-
-- [ ] Integração com dados em tempo real das partidas
-- [ ] Alertas personalizados para jogos futuros
-- [ ] Expandir a base de conhecimento para temporadas anteriores
-- [ ] Recursos de análise preditiva para próximos jogos
-- [ ] Suporte para consultas por linguagem natural mais complexas
-- [ ] Interface gráfica aprimorada com visualizações estatísticas
-
-## 👥 Contribuição
-
-Contribuições são sempre bem-vindas! Siga estes passos para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
-
-Por favor, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes.
-
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
----
-
-<div align="center">
-  Desenvolvido com ❤️ para os fãs da Furia FC
-  <br>
-  © 2025 FuriaBot
-</div>
