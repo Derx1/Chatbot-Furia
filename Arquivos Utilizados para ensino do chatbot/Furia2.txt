@@ -1,0 +1,75 @@
+{
+  "organization": {
+    "name": "FURIA Esports",
+    "stylized": ["FURIA Esports", "FURIA"],
+    "founded": "2017-08-08",
+    "founders": [
+      "Jaime Pádua",
+      "André Akkari",
+      "Cris Guedes"
+    ],
+    "owners": [
+      "Jaime Pádua",
+      "André Akkari",
+      "Cris Guedes"
+    ],
+    "headquarters": {
+      "original": {
+        "city": "Uberlândia",
+        "state": "Minas Gerais",
+        "country": "Brazil"
+      },
+      "current": {
+        "city": "São Paulo",
+        "country": "Brazil"
+      },
+      "branches": [
+        {
+          "region": "North America",
+          "city": "Boca Raton",
+          "country": "USA"
+        }
+      ]
+    },
+    "website": "https://www.furia.gg/",
+    "partners": [
+      "Cruzeiro do Sul",
+      "PokerStars",
+      "Red Bull",
+      "Hellmann's",
+      "Betnacional",
+      "Lenovo"
+    ],
+    "divisions": [
+      "Counter-Strike 2",
+      "Rocket League",
+      "League of Legends",
+      "Valorant",
+      "Rainbow Six: Siege",
+      "Apex Legends",
+      "Kings League",
+      "Dota 2"
+    ],
+    "notable_achievements": [
+      {
+        "year": 2022,
+        "description": "5ª organização mais bem-sucedida do mundo (Nerd Street)"
+      },
+      {
+        "year": 2022,
+        "description": "Campeã do Gamers8 de Rocket League"
+      },
+      {
+        "year": 2024,
+        "description": "Semifinalista da Esports World Cup em Rainbow Six: Siege"
+      }
+    ],
+    "initial_cs_roster": [
+      "spacca",
+      "prd",
+      "guerri",
+      "caike",
+      "VINI"
+    ]
+  }
+}

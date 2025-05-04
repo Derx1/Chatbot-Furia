@@ -1,0 +1,281 @@
+{
+  "FURIA_Esports": [
+    {
+      "game": "Valorant",
+      "players": [
+        {
+          "first_name": "Khalil",
+          "last_name": "Schmidt Faour Auad",
+          "nick": "khalil",
+          "join_date": "24-01-2021",
+          "role": "Controller"
+        },
+        {
+          "first_name": "Ilan",
+          "last_name": "Eloy",
+          "nick": "havoc",
+          "join_date": "13-10-2023",
+          "role": "Duelist"
+        },
+        {
+          "first_name": "Olavo",
+          "last_name": "Marcelo",
+          "nick": "heat",
+          "join_date": "09-12-2024",
+          "role": "Sentinel"
+        },
+        {
+          "first_name": "Rafael",
+          "last_name": "Lima",
+          "nick": "raafa",
+          "join_date": "09-12-2024",
+          "role": "Flex"
+        },
+        {
+          "first_name": "Luis",
+          "last_name": "Henrique",
+          "nick": "pryze",
+          "join_date": "13-03-2025",
+          "role": "Initiator"
+        }
+      ],
+      "captain": "raafa"
+    },
+    {
+      "game": "Counter-Strike 2",
+      "players": [
+        {
+          "first_name": "Yuri",
+          "last_name": "Boian",
+          "nick": "yuurih",
+          "join_date": "08-11-2017",
+          "role": "Rifler"
+        },
+        {
+          "first_name": "Kaike",
+          "last_name": "Cerato",
+          "nick": "KSCERATO",
+          "join_date": "06-02-2018",
+          "role": "Rifler"
+        },
+        {
+          "first_name": "Gabriel",
+          "last_name": "Toledo",
+          "nick": "FalleN",
+          "join_date": "03-07-2023",
+          "role": "EX-AWPer agora Rifler / IGL"
+        },
+        {
+          "first_name": "Danil",
+          "last_name": "Golubenko",
+          "nick": "molodoy",
+          "join_date": "11-04-2025",
+          "role": "AWper"
+        },
+        {
+          "first_name": "Mareks",
+          "last_name": "Gaļinskis",
+          "nick": "YEKINDAR",
+          "join_date": "22-04-2025",
+          "role": "Entry Fragger(Stand-in)"
+        }
+      ],
+      "captain": "FalleN"
+    },
+    {
+      "game": "League of Legends",
+      "players": [
+        {
+          "first_name": "Guilherme",
+          "last_name": "Ruiz",
+          "nick": "Guigo",
+          "join_date": "16-01-2025",
+          "role": "Top"
+        },
+        {
+          "first_name": "Pedro",
+          "last_name": "Seixas",
+          "nick": "Tatu",
+          "join_date": "16-01-2025",
+          "role": "Jungle"
+        },
+        {
+          "first_name": "Arthur",
+          "last_name": "Machado",
+          "nick": "Tutsz",
+          "join_date": "12-05-2023",
+          "role": "Mid"
+        },
+        {
+          "first_name": "Andrey",
+          "last_name": "Saraiva",
+          "nick": "Ayu",
+          "join_date": "09-05-2023",
+          "role": "ADC"
+        },
+        {
+          "first_name": "Gabriel",
+          "last_name": "Oliveira",
+          "nick": "JoJo",
+          "join_date": "21-05-2024",
+          "role": "Support"
+        }
+      ],
+      "captain": "JoJo"
+    },
+    {
+      "game": "Rainbow Six Siege",
+      "players": [
+        {
+          "first_name": "Felipe",
+          "last_name": "De Lucia",
+          "nick": "FelipoX",
+          "join_date": "11-03-2024",
+          "role": "Flex"
+        },
+        {
+          "first_name": "Gustavo",
+          "last_name": "Herdina",
+          "nick": "HerdsZ",
+          "join_date": "11-03-2024",
+          "role": "Entry fragger"
+        },
+        {
+          "first_name": "João",
+          "last_name": "Vitor",
+          "nick": "Jv92",
+          "join_date": "11-03-2024",
+          "role": "Support"
+        },
+        {
+          "first_name": "Diego",
+          "last_name": "Zanello",
+          "nick": "Kheyze",
+          "join_date": "11-03-2024",
+          "role": "Entry fragger"
+        },
+        {
+          "first_name": "Felipe",
+          "last_name": "Sá Ferreira",
+          "nick": "nade",
+          "join_date": "11-03-2024",
+          "role": "Support"
+        }
+      ],
+      "captain": "FelipoX"
+    },
+    {
+      "game": "Rocket League",
+      "players": [
+        {
+          "first_name": "Yan",
+          "last_name": "Nolasco",
+          "nick": "yANXNZ",
+          "join_date": "17-08-2021",
+          "role": "Striker"
+        },
+        {
+          "first_name": "Gabriel",
+          "last_name": "Buzon",
+          "nick": "Lostt",
+          "join_date": "18-01-2023",
+          "role": "Defensor"
+        },
+        {
+          "first_name": "Arthur",
+          "last_name": "Miguel",
+          "nick": "DRUFINHO",
+          "join_date": "06-10-2023",
+          "role": "Support"
+        }
+      ],
+      "captain": "yANXNZ"
+    },
+    {
+      "game": "Kings League",
+      "team": "Furia FC",
+      "season": "2024/25 Split 1",
+      "players": [
+        {
+          "number": 9,
+          "first_name": "Guilherme",
+          "last_name": "Monagatti",
+          "position": "Atacante"
+        },
+        {
+          "number": 3,
+          "first_name": "Caio",
+          "last_name": "Catroca",
+          "position": "Meio Campor"
+        },
+        {
+          "number": 8,
+          "first_name": "Murillo",
+          "last_name": "Donato",
+          "position": "Atacante"
+        },
+        {
+          "number": 77,
+          "first_name": "Ryan",
+          "last_name": "Lima",
+          "position": "Atacante"
+        },
+        {
+          "number": 1,
+          "first_name": "Matheus",
+          "last_name": "Ayosa",
+          "position": "Goleiro"
+        },
+        {
+          "number": 22,
+          "first_name": "João",
+          "last_name": "Pelegrini",
+          "position": "Defensor"
+        },
+        {
+          "number": 7,
+          "first_name": "Gabriel",
+          "last_name": "Pastuch",
+          "position": "Atacante"
+        },
+        {
+          "number": 33,
+          "first_name": "Victor",
+          "last_name": "Hugo",
+          "position": "Goleiro"
+        },
+        {
+          "number": 14,
+          "first_name": "Matheus",
+          "last_name": "Dedo",
+          "position": "Meio Campor"
+        },
+        {
+          "number": 12,
+          "first_name": "Jeffinho",
+          "last_name": null,
+          "position": "Meio Campor"
+        },
+        {
+          "number": 10,
+          "first_name": "Lipão",
+          "last_name": null,
+          "position": "Atacante"
+        },
+        {
+          "number": 11,
+          "first_name": "Leleti",
+          "last_name": null,
+          "position": "Atacante"
+        },
+        {
+          "number": 5,
+          "first_name": "Andrey",
+          "last_name": "Batata",
+          "position": "Meio Campor"
+        }
+      ],
+      "captain": "Lipão"
+    }
+  ]
+}
