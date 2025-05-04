@@ -1,7 +1,7 @@
 # FuriaBot: Assistente Virtual para Fãs da Furia FC
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200" alt="Logo do FuriaBot" width="200">
+  <img src="https://liquipedia.net/commons/images/thumb/a/ad/FURIA_Esports_full_darkmode.png/600px-FURIA_Esports_full_darkmode.png" alt="Logo do FuriaBot" width="200">
   <br>
   <strong>Seu assistente virtual para acompanhar a Furia FC na Kings League Brasil</strong>
 </div>
